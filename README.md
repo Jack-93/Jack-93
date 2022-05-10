@@ -1,6 +1,6 @@
-## Greetings! This is introduction of me, Jack
+### Greetings! This is introduction of me, Jack
 -------------------
 
-  Worst To Better
+  # Worst To Better
   
 -------------------
