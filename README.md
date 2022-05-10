@@ -18,14 +18,14 @@ int main(){
     num[i]=i+1;
   }
     srand((unsigned int)time(0));
-    int Temp,index1,index2;
+    int temp,index1,index2;
     for (int i = 0; i < 100; i++)
     {
         index1 = rand() % 45;
         index2 = rand() % 45;
         temp = num[index1];
-        num[index1]; = num[index2];
-        num[index2]; = temp;
+        num[index1] = num[index2];
+        num[index2] = temp;
     }
     for (int i = 0; i < 5; i++)
     {
