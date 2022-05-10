@@ -1,10 +1,11 @@
 # Greetings! This is introduction of me, Jack
-
-  ## Worst To Better
-  ## Lotto Is Best
- 
 * [My github Page] (https://jack-93.github.io/)
 * [Instagram] (https://www.instagram.com/zig_jack93/)
+
+  ### Worst To Better
+  ### Lotto Is Best
+ 
+
 ```c
 
 #include <iostream>
