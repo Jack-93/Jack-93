@@ -5,7 +5,7 @@
   
   [![Sparrow's github stats](https://github-readme-stats.vercel.app/api?username=Jack-93)](https://github.com/Jack-93/github-readme-stats)
   
-  [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++)]
+  [![C++ Badge](https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++)]
   
   
   ## Worst To Better
