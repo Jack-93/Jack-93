@@ -1,7 +1,7 @@
 # Greetings! This is introduction of me, Jack
-* [My github Page] (https://jack-93.github.io/)
-* [Instagram] (https://www.instagram.com/zig_jack93/)
-* #1572B6
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://Jack-93.github.io/)](https://Jack-93.github.io/)	
+  [![Instagram Badge](https://img.shields.io/badge/Insta-ff0000?style=flat-square&logo=Instagram&link=https://https://www.instagram.com/zig_jack93/)](https://www.youtube.com/c/kyleschool)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:worl5@korea.ac.kr)](mailto:worl5@korea.ac.kr)
 
   ### Worst To Better
   ### Lotto Is Best
