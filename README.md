@@ -1,5 +1,6 @@
-### Hello, This is me!
-## introduction of me, Jack
-'''
-# Worst To Better
-'''
+## Greetings! This is introduction of me, Jack
+-------------------
+
+  # Worst To Better
+  
+-------------------
