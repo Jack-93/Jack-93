@@ -1,12 +1,10 @@
 # Greetings! This is introduction of me, Jack
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://Jack-93.github.io/)](https://Jack-93.github.io/)	
-  [![Instagram Badge](https://img.shields.io/badge/Insta-ff1000?style=flat-square&logo=Instagram&link=https://www.instagram.com/zig_jack93/)](www.instagram.com/zig_jack93/)
+  [![Instagram Badge](https://img.shields.io/badge/Insta-ff8000?style=flat-square&logo=Instagram&link=https://www.instagram.com/zig_jack93/)](www.instagram.com/zig_jack93/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:worl5@korea.ac.kr)](mailto:worl5@korea.ac.kr)
 
-  ### Worst To Better
-  ### Lotto Is Best
- 
-
+  ## Worst To Better
+  ## Lotto Is Best
 ```c
 
 #include <iostream>
