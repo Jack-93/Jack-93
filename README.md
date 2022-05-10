@@ -1,6 +1,7 @@
 # Greetings! This is Jack.
+
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://Jack-93.github.io/)](https://Jack-93.github.io/)
-  [![Instagram Badge](https://img.shields.io/badge/Insta-ff8000?style=flat-square&logo=Instagram&link=https://www.instagram.com/zig_jack93/)](www.instagram.com/zig_jack93/)
+  [![Instagram Badge](https://img.shields.io/badge/Insta-ff8000?style=flat-square&logo=Instagram&link=https://www.instagram.com/zig_jack93)](www.instagram.com/zig_jack93)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:worl5@korea.ac.kr)](mailto:worl5@korea.ac.kr)
   
   [![Sparrow's github stats](https://github-readme-stats.vercel.app/api?username=Jack-93)](https://github.com/Jack-93/github-readme-stats)
@@ -18,7 +19,7 @@
   
   
   
-  ## Worst To Better
+
   ## Lotto Is Best
 ```c
 
