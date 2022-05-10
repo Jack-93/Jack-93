@@ -8,16 +8,14 @@
 ```c
 
 #include <iostream>
-#include <time.h>
 using namespace std;
 
 int main(){
   int num[45]={};
-  
+
   for(int i=0;i<45;i++){
     num[i]=i+1;
   }
-    srand((unsigned int)time(0));
     int temp,index1,index2;
     for (int i = 0; i < 100; i++)
     {
@@ -27,12 +25,12 @@ int main(){
         num[index1] = num[index2];
         num[index2] = temp;
     }
-    for (int i = 0; i < 5; i++)
+    for (int i = 0; i < 6; i++)
     {
         cout << (i + 1) << "번째 번호 : " << num[i] << "\n";
     }
-    cout << num[5] << "\n";
-    
+    cout << "이번 주 로또 번호는 !: "<< num[0] << ", " << num[1] << ", " << num[2] << ", " << num[3] << ", "
+     << num[4] << ", " << num[5] << "\n";
     return 0;
 }
 ```
