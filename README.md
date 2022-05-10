@@ -2,5 +2,5 @@
 
   ## Worst To Better
  
-* (Jack-93.github.io)
- 
+* [My github Page] (https://jack-93.github.io/)
+* [Instagram] (https://www.instagram.com/zig_jack93/)
