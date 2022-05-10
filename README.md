@@ -5,7 +5,7 @@
   
   [![Sparrow's github stats](https://github-readme-stats.vercel.app/api?username=Jack-93)](https://github.com/Jack-93/github-readme-stats)
   
-  [![C++ Badge](https://img.shields.io/badge/C++-blue?style=flat-square&logo=C++)]
+  [![c++ Badge](https://img.shields.io/badge/-c++-00599C?logo=c%20plus%20plus&logoColor=white&style=for-the-badge)]
   
   
   
