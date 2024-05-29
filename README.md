@@ -1,4 +1,4 @@
-# Greetings! This is Jack.
+# Greetings!
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://Jack-93.github.io/)](https://Jack-93.github.io/)
   [![Instagram Badge](https://img.shields.io/badge/Insta-ff8000?style=flat-square&logo=Instagram&link=https://www.instagram.com/zig_jack93)](https://www.instagram.com/zig_sparrow/)
